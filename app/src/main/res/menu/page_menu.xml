@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:actionLayout="@layout/fragment_home_page"
+        android:icon="@drawable/categoriy"
+        android:title="Kategoriler" />
+    <item
+        android:icon="@drawable/favorite"
+        android:title="Favoriler" />
+    <item
+        android:icon="@drawable/save_items"
+        android:title="Listelerim" />
+    <item
+        android:icon="@drawable/campaign"
+        android:title="Kampanyalar" />
+    <item
+        android:icon="@drawable/help_support"
+        android:title="Yardım ve Destek" />
+</menu>
